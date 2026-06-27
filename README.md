@@ -1,3 +1,5 @@
+<img src="images/neteclogo (2).png" alt="logo" width="300"/>
+
 # Agentes de IA
 
 Aprenderás a diseñar, construir y evaluar agentes de IA generativa capaces de planificar, usar herramientas, gestionar memoria y operar con trazabilidad en entornos corporativos.
@@ -55,9 +57,13 @@ Aprenderás a diseñar, construir y evaluar agentes de IA generativa capaces de 
 - [diseñar plan de evaluación y pruebas para el prototipo](Capitulo08/README.md#diseñar-plan-de-evaluación-y-pruebas-para-el-prototipo)
   - Descripción: Práctica orientada a aplicar el contenido del capítulo mediante la implementación del escenario descrito.
   - Duración estimada: 48 min
+  
+---
 
-## Flujo de colaboración
+## 📬 **Contacto y más información**
 
-- Trabajar en `changes_course`.
-- Crear Pull Request hacia `main`.
-- Merge por `Squash and merge`.
+Si tienes alguna pregunta o necesitas más detalles, no dudes en [contactarnos](mailto:soporte@netec.com). También puedes encontrar más recursos en nuestra [página](https://netec.com).
+
+---
+
+¡Gracias por visitar nuestra plataforma! No olvides revisar todos los laboratorios y comenzar tu viaje de aprendizaje hoy mismo.
